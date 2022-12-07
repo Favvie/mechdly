@@ -1,7 +1,6 @@
 import React from "react";
 import Calendar from "../assets/images/calendarx.svg";
 import Ball from "../assets/images/circle.svg";
-import ButtonComponent from "./ButtonComponent";
 import {
 	Box,
 	Flex,
