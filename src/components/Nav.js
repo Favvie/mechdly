@@ -7,7 +7,7 @@ import {
 	Spacer,
 	ButtonGroup,
 } from "@chakra-ui/react";
-import Logo from "../assets/images/Mechdly-logo.svg";
+import Logo from "../assets/images/Mechdly-logo.png";
 import ButtonComponent from "./ButtonComponent";
 
 const Nav = () => {

@@ -72,6 +72,8 @@ const Footer = () => {
 								border="none"
 								placeholder="Email address"
 								_placeholder={{ color: "white", fontSize: ["15px", "20px"] }}
+								focusBorderColor="transport"
+								_focusVisible="none"
 							/>
 						</FormControl>
 						<Button

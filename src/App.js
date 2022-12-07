@@ -12,9 +12,11 @@ function App() {
 	return (
 		<Box
 			paddingInline={["5%", "130px"]}
-			backgroundColor="#030100"
+			maxW="1600px"
+			m="auto"
+			// backgroundColor="#030100"
 			height="100%"
-			overflow="hidden"
+			// overflow="hidden"
 		>
 			<Nav />
 			{/* hero section */}

@@ -26,7 +26,8 @@ const theme = extendTheme({
 			body: {
 				fontFamily: "satoshiRegular",
 				fontColor: "white",
-				// background: "black",
+				background: "#030100",
+				overflowX: "hidden",
 				// paddingInline: "20px",
 			},
 		},
