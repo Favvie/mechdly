@@ -3,7 +3,6 @@ import { Box, Flex, Image, Text, Button } from "@chakra-ui/react";
 import Calendar2 from "../assets/images/calendar2.svg";
 import Chat from "../assets/images/chat.svg";
 import SemiCircle from "../assets/images/semi-circle.svg";
-import ButtonComponent from "./ButtonComponent";
 
 const FeaturesSection = () => {
 	return (
